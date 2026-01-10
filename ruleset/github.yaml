@@ -37,3 +37,4 @@ payload:
   - DOMAIN-SUFFIX,thegithubshop.com
   - DOMAIN-KEYWORD,github
   - DOMAIN-SUFFIX,linux.do
+  - DOMAIN-SUFFIX,debian.org
