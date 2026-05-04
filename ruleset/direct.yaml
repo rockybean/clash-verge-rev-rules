@@ -1,0 +1,7 @@
+# 域名关键字匹配
+# 域名后缀匹配
+payload:
+  - DOMAIN-SUFFIX,feishu.cn
+  
+
+
