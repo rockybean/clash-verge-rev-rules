@@ -62,4 +62,6 @@ payload:
   - DOMAIN-REGEX,midjourney.*
   - DOMAIN-SUFFIX,notion.so
   - DOMAIN-SUFFIX,tabbitbrowser.com
+  - DOMAIN-SUFFIX,trae.ai
+
 
