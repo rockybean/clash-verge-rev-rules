@@ -39,4 +39,6 @@ payload:
   - DOMAIN-SUFFIX,linux.do
   - DOMAIN-SUFFIX,debian.org
   - DOMAIN-SUFFIX,npmjs.com
+  - DOMAIN-SUFFIX,shadcn.com
+
 
