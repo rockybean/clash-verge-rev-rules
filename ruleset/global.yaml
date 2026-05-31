@@ -4,11 +4,11 @@
 # UPDATED: 2025-01-27 02:12:03
 # DOMAIN: 84
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 30865
+# DOMAIN-SUFFIX: 30866
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 31102
+# TOTAL: 31103
 payload:
   - DOMAIN,adobeereg.com
   - DOMAIN,angle.com.tw
@@ -1201,6 +1201,7 @@ payload:
   - DOMAIN-SUFFIX,alivevm.com
   - DOMAIN-SUFFIX,alivevmax.com
   - DOMAIN-SUFFIX,alivevue.com
+  - DOMAIN-SUFFIX,alma.now
   - DOMAIN-SUFFIX,aljazeera.com
   - DOMAIN-SUFFIX,aljazeera.net
   - DOMAIN-SUFFIX,all-sex-links.com
