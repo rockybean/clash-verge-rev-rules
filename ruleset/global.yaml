@@ -4,11 +4,11 @@
 # UPDATED: 2025-01-27 02:12:03
 # DOMAIN: 84
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 30866
+# DOMAIN-SUFFIX: 30867
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 31103
+# TOTAL: 31104
 payload:
   - DOMAIN,adobeereg.com
   - DOMAIN,angle.com.tw
@@ -5962,6 +5962,7 @@ payload:
   - DOMAIN-SUFFIX,cumbriacad.ac.uk
   - DOMAIN-SUFFIX,cumbriahigherlearning.ac.uk
   - DOMAIN-SUFFIX,cumfox.com
+  - DOMAIN-SUFFIX,cumora.ai
   - DOMAIN-SUFFIX,cumshotlist.com
   - DOMAIN-SUFFIX,cumswappingsis.com
   - DOMAIN-SUFFIX,cumteenporn.com
